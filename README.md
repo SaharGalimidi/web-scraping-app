@@ -68,10 +68,9 @@ cd web-scraping-app
 
 Run the following command to build the Docker images and start the containers:
 
-\`\`\`bash
-docker-compose up --build
-\`\`\`
-
+``` bash
+    docker-compose up --build
+```
 This command will:
 
 - Build the Docker images for both the frontend and backend services.
