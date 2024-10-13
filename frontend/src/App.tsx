@@ -1,23 +1,3 @@
-// import React from 'react';
-// import ScrapeForm from './components/ScrapeForm';
-// import ResultsList from './components/ResultsList';
-// import './index.css'; // Import the CSS file
-
-// const App: React.FC = () => {
-//   return (
-//     <div className="app-container">
-//       <h1>Web Scraping Application</h1>
-//       <ScrapeForm />
-//       <ResultsList />
-//     </div>
-//   );
-// };
-
-// export default App;
-
-
-// frontend/src/App.tsx
-
 import React, { useState, useEffect } from 'react';
 import ScrapeForm from './components/ScrapeForm';
 import ResultsList from './components/ResultsList';
